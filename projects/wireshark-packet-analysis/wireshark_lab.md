@@ -1,0 +1,3 @@
+# Wireshark Packet Analysis
+
+Captured traffic shows suspicious HTTP behavior...

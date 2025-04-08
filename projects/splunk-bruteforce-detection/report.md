@@ -1,0 +1,3 @@
+# Brute Force Detection Report
+
+This report covers detection of brute force attempts...
