@@ -4,17 +4,20 @@
 
 ---
 
-## 🔍 Featured Projects
+## 🔍 Featured Labs
 
-### 🛡️ Phishing Email Investigation  
+### 🛡️ Phishing Email Investigation
+
 → Investigated an actual phishing attempt using VirusTotal, CyberChef, and WHOIS.  
 📄 `projects/phishing-analysis/phishing_report.md`
 
-### 📶 Wireshark Packet Analysis  
+### 📶 Wireshark Packet Analysis
+
 → Captured and analyzed suspicious HTTP traffic using Wireshark.  
 📄 `projects/wireshark-packet-analysis/wireshark_lab.md`
 
-### 🧠 Brute Force Detection in Splunk  
+### 🧠 Brute Force Detection in Splunk
+
 → Wrote detection rules for login abuse using Splunk.  
 📄 `projects/splunk-bruteforce-detection/report.md`
 
