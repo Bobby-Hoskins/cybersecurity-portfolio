@@ -4,6 +4,11 @@
 
 ---
 
+## 🧪 Featured Projects
+
+- 🔍 [Internal IT Audit – Botium Toys](./botium-toys-audit)  
+  A full internal audit simulation based on the NIST Cybersecurity Framework, including a written report, controls checklist, and compliance evaluation.
+
 ## 🔍 Featured Labs
 
 ### 🛡️ Phishing Email Investigation
