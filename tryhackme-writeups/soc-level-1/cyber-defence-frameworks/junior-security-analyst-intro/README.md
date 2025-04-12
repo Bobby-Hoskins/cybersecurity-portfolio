@@ -19,16 +19,16 @@ This room introduces the responsibilities and workflow of a Junior (Associate) S
 
 ## 📸 Screenshots
 
-![SOC Tier Model](./screenshots/career-path-overview.png)  
+![SOC Tier Model](./screenshots/career-path-overview.PNG)  
 *SOC career progression: Tier 1 triage, Tier 2 incident responder, Tier 3 threat hunter.*
 
-![SOC Overview](./screenshots/soc-overview-diagram.png)  
+![SOC Overview](./screenshots/soc-overview-diagram.PNG)  
 *Visual breakdown of SOC responsibilities and tools.*
 
-![Day in the Life Simulation](./screenshots/day-in-the-life.png)  
+![Day in the Life Simulation](./screenshots/day-in-the-life.PNG)  
 *Interactive challenge simulating a junior analyst’s workflow.*
 
-![Room Completion](./screenshots/room-completion.png)  
+![Room Completion](./screenshots/room-completion.PNG)  
 *Completion badge for the room.*
 
 ## ✍️ Reflection
