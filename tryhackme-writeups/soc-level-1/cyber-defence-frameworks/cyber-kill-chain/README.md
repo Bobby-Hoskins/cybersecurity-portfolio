@@ -1,72 +1,61 @@
-
-# 🔗 Cyber Kill Chain
-
+# 🔗 Cyber Kill Chain  
 > **TryHackMe: SOC Level 1 – Cyber Defence Frameworks**  
-> Completed: April 11, 2025
+> Completed: April 13, 2025
 
-## 🔍 Overview
+## 🔍 Overview  
+This room explores the **Cyber Kill Chain**, a threat intelligence model developed by Lockheed Martin that breaks down the lifecycle of a cyberattack into seven distinct phases. It helps defenders identify where an attacker is within their operation and guides proactive strategies to detect, respond to, and prevent attacks before objectives are reached.
 
-This room breaks down the **Cyber Kill Chain** framework, created by Lockheed Martin, which models the stages of a cyberattack. It’s used by security analysts to understand and disrupt an adversary’s process—from reconnaissance to achieving objectives. Through guided tasks and a real-world practical, learners walk through each stage to grasp the attack lifecycle and corresponding defensive strategies.
+## 💡 Key Takeaways  
+- Understanding each phase allows SOC teams to detect and disrupt attacks early.  
+- Many real-world attacks follow this structured progression.  
+- Real-world techniques like phishing, privilege escalation, and data exfiltration were mapped to each stage.  
+- Detection is most effective when defenders can “break the chain” before attackers reach their final objective.
 
-## 💡 Key Takeaways
+## 🔧 Tools / Models Learned  
+- Cyber Kill Chain Framework  
+- OSINT Reconnaissance  
+- Payload creation and macro delivery  
+- Exploitation and backdoor installation  
+- C2 channels and beaconing  
+- Exfiltration and destruction techniques  
+- MITRE ATT&CK tactics applied in practice
 
-- Adversaries follow a repeatable structure to carry out intrusions.
-- Disrupting early stages (e.g., reconnaissance or weaponization) reduces attack success.
-- Each phase represents opportunities for defenders to identify and stop threats.
-- Tools like MITRE ATT&CK help map TTPs and enhance detection strategies.
+## 📸 Screenshots  
 
-## 🧠 Kill Chain Stages Covered
+![Kill Chain Intro](./screenshots/introduction.png)  
+*Overview of the Cyber Kill Chain framework and learning objectives.*
 
-1. **Reconnaissance** – Researching the victim using OSINT and email harvesting  
-2. **Weaponization** – Crafting malicious payloads and exploits  
-3. **Delivery** – Phishing, USB drops, watering hole attacks  
-4. **Exploitation** – Triggering vulnerabilities, zero-days  
-5. **Installation** – Establishing persistence via web shells or backdoors  
-6. **Command & Control** – C2 communication like DNS tunneling  
-7. **Actions on Objectives** – Exfiltration, lateral movement, and destruction  
+![Reconnaissance](./screenshots/reconnaissance.png)  
+*Passive and active reconnaissance using OSINT and email harvesting.*
 
-## 🔧 Tools & Concepts Learned
+![Weaponization](./screenshots/weaponization.png)  
+*Creating malicious macros and payloads.*
 
-- **OSINT Framework**  
-- **Payload creation and macros**  
-- **Watering hole and phishing techniques**  
-- **Zero-day exploits**  
-- **Persistence mechanisms (e.g., timestomping, web shells)**  
-- **C2 Channels: DNS tunneling, beaconing**  
-- **MITRE ATT&CK alignment**
+![Delivery](./screenshots/delivery.png)  
+*Delivering malicious code via phishing or USB drops.*
 
-## 📸 Screenshots
+![Exploitation](./screenshots/exploitation.png)  
+*Triggering the vulnerability to gain unauthorized access.*
 
-![Kill Chain Intro](./screenshots/TryHackMe-Cyber-Kill-Chain-04-13-2025_04_11_PM.png)  
-*Intro to the Cyber Kill Chain concept.*
+![Installation](./screenshots/installation.png)  
+*Installing persistence mechanisms like web shells.*
 
-![Reconnaissance](./screenshots/TryHackMe-Cyber-Kill-Chain-04-13-2025_04_19_PM.png)  
-*Collecting OSINT and email harvesting during recon.*
+![Command & Control](./screenshots/command-and-control.png)  
+*Establishing a communication channel between attacker and victim.*
 
-![Weaponization](./screenshots/TryHackMe-Cyber-Kill-Chain-04-13-2025_04_28_PM.png)  
-*Building a weaponized macro payload.*
+![Actions on Objectives](./screenshots/actions-on-objectives.png)  
+*Executing final objectives such as data exfiltration and system tampering.*
 
-![Exploitation](./screenshots/TryHackMe-Cyber-Kill-Chain-04-13-2025_04_34_PM.png)  
-*Executing the payload to exploit vulnerabilities.*
+![Practice Scenario](./screenshots/practice-analysis.png)  
+*Real-world attack simulation based on the Target data breach.*
 
-![Persistence](./screenshots/TryHackMe-Cyber-Kill-Chain-04-13-2025_04_39_PM.png)  
-*Using timestomping and backdoors for persistence.*
+![Room Completion](./screenshots/completion.png)  
+*Completion badge earned after completing all tasks.*
 
-![C2 & Objectives](./screenshots/TryHackMe-Cyber-Kill-Chain-04-13-2025_04_47_PM.png)  
-*Command & control and reaching final attacker goals.*
+## ✍️ Reflection  
+This room clarified how attackers move from information gathering to full system compromise and data theft. It was insightful to walk through each stage of the kill chain using realistic tools and techniques. Mapping them to real-world breaches emphasized the value of layered defense. I now have a stronger understanding of where detection efforts can be prioritized to break the chain early.
 
-![Practice Scenario](./screenshots/TryHackMe-Cyber-Kill-Chain-04-13-2025_06_21_PM.png)  
-*Static site activity replicating the infamous Target breach.*
-
-![Room Completion](./screenshots/TryHackMe-Cyber-Kill-Chain-04-13-2025_06_22_PM (1).png)  
-*Completion badge for the room.*
-
-## ✍️ Reflection
-
-This room solidified my understanding of adversary behavior from start to finish. Mapping each phase to real-world examples helped contextualize why SOCs need layered defenses. The static site practice was a great way to apply the framework to an actual breach scenario. I’ll definitely keep referencing the Kill Chain when thinking about detection strategies and blue teaming.
-
-## 🔗 Related to Security+
-
-- Domain 1.0: Threats, Attacks, and Vulnerabilities  
-- Domain 4.0: Security Operations  
-- Domain 5.0: Incident Response  
+## 🔗 Related to Security+  
+- **Domain 1.0:** Threats, Attacks, and Vulnerabilities  
+- **Domain 4.0:** Security Operations  
+- **Domain 5.0:** Incident Response
