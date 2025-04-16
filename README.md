@@ -9,20 +9,25 @@
 - 🔍 [Internal IT Audit – Botium Toys](./botium-toys-audit)  
   A full internal audit simulation based on the NIST Cybersecurity Framework, including a written report, controls checklist, and compliance evaluation.
 
+- 📡 [Network Traffic Analysis – DNS & ICMP Incident Report](./network-traffic-analysis)  
+  Analyzed captured `tcpdump` logs to identify a DNS resolution failure caused by unreachable port 53. Delivered a professional report based on real-world SOC workflows.
+
+- 🛑 [SYN Flood Attack – DoS Incident Report](./network-attacks/syn-flood-analysis)  
+  Investigated a SYN flood denial-of-service attack using Wireshark logs. Wrote a detailed report explaining the attack, TCP handshake disruption, and server impact.
+
+---
+
 ## 🔍 Featured Labs
 
-### 🛡️ Phishing Email Investigation
-
+### 🛡️ Phishing Email Investigation  
 → Investigated an actual phishing attempt using VirusTotal, CyberChef, and WHOIS.  
 📄 `projects/phishing-analysis/phishing_report.md`
 
-### 📶 Wireshark Packet Analysis
-
+### 📶 Wireshark Packet Analysis  
 → Captured and analyzed suspicious HTTP traffic using Wireshark.  
 📄 `projects/wireshark-packet-analysis/wireshark_lab.md`
 
-### 🧠 Brute Force Detection in Splunk
-
+### 🧠 Brute Force Detection in Splunk  
 → Wrote detection rules for login abuse using Splunk.  
 📄 `projects/splunk-bruteforce-detection/report.md`
 
@@ -40,10 +45,12 @@
 
 ## 📊 TryHackMe Labs Tracker
 
-- ✅ Cyber Kill Chain
-- ✅ MITRE ATT&CK Framework
-- 🕓 Windows Event Logs (In Progress)
-- 🔜 SIEM with Splunk
+- ✅ Cyber Kill Chain  
+- ✅ MITRE ATT&CK Framework  
+- ✅ DNS & ICMP Log Analysis  
+- ✅ SYN Flood Detection  
+- 🕓 Windows Event Logs (In Progress)  
+- 🔜 SIEM with Splunk  
 - 🔜 Phishing Analysis
 
 ---
