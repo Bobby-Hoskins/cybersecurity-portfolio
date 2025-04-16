@@ -1,7 +1,8 @@
 # 🕵️ Network Traffic Analysis – DNS & ICMP Incident Report
 
 **Certificate Program:** Google Cybersecurity Professional Certificate  
-**Course:** Play It Safe: Manage Security Risks (Course 2)  
+**Course:** Connect and Protect: Networks and Network Security
+ (Course 3)  
 **Date Completed:** April 16, 2025
 
 ---
