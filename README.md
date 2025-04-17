@@ -9,10 +9,10 @@
 - 🔍 [Internal IT Audit – Botium Toys](./botium-toys-audit)  
   A full internal audit simulation based on the NIST Cybersecurity Framework, including a written report, controls checklist, and compliance evaluation.
 
-- 📡 [Network Traffic Analysis – DNS & ICMP Incident Report](./network-traffic-analysis)  
+- 📡 [DNS & ICMP Incident Report](./incident-reports/network-traffic-analysis)  
   Analyzed captured `tcpdump` logs to identify a DNS resolution failure caused by unreachable port 53. Delivered a professional report based on real-world SOC workflows.
 
-- 🛑 [SYN Flood Attack – DoS Incident Report](./network-attacks/syn-flood-analysis)  
+- 🛑 [SYN Flood Attack – DoS Incident Report](./incident-reports/network-attacks/syn-flood-analysis)  
   Investigated a SYN flood denial-of-service attack using Wireshark logs. Wrote a detailed report explaining the attack, TCP handshake disruption, and server impact.
 
 ---
