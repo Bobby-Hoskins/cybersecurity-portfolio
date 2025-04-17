@@ -1,3 +1,0 @@
-# MITRE ATT&CK Framework
-
-Analyzed simulated attack using MITRE techniques...
