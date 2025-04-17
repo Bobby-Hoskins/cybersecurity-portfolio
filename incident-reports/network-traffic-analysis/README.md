@@ -25,8 +25,6 @@ This report analyzes network traffic captured using `tcpdump` during a simulated
 
 ## 📂 File Included
 
-- Formal incident report detailing traffic behavior, protocols involved, root cause, and recommended resolution
-
 📄 [Download the full report (DOCX)](./dns-icmp-incident-report.docx)
 
 📄 [View the report as PDF](./dns-icmp-incident-report.pdf)
