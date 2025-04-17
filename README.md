@@ -15,6 +15,9 @@
 - 🛑 [SYN Flood Attack – DoS Incident Report](./incident-reports/network-attacks/syn-flood-analysis)  
   Investigated a SYN flood denial-of-service attack using Wireshark logs. Wrote a detailed report explaining the attack, TCP handshake disruption, and server impact.
 
+- 🌐 [Web Redirection Analysis – HTTP/DNS Incident Report](./incident-reports/web-redirection-analysis)  
+  Explored malicious domain redirection activity through tcpdump logs and identified how redirection patterns can reveal phishing or spoofing attempts.
+
 ---
 
 ## 🔍 Featured Labs
@@ -49,6 +52,7 @@
 - ✅ MITRE ATT&CK Framework  
 - ✅ DNS & ICMP Log Analysis  
 - ✅ SYN Flood Detection  
+- ✅ Web Redirection Analysis  
 - 🕓 Windows Event Logs (In Progress)  
 - 🔜 SIEM with Splunk  
 - 🔜 Phishing Analysis
