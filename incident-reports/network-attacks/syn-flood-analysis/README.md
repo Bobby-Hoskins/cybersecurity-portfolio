@@ -24,8 +24,9 @@ This report analyzes a **SYN flood attack**, a type of Denial-of-Service (DoS) a
 
 ## 📂 Files Included
 
-- [`syn-flood-incident-report.docx`](./syn-flood-incident-report.docx): Professionally formatted incident report (Word)
-- [`syn-flood-incident-report.pdf`](./syn-flood-incident-report.pdf): PDF version for easy viewing and sharing
+📄 [Download the full report (DOCX)](./syn-flood-incident-report.docx)
+
+📄 [View the report as PDF](./syn-flood-incident-report.pdf)
 
 ---
 
