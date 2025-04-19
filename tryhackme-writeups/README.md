@@ -14,7 +14,7 @@ Welcome to my collection of TryHackMe room writeups, organized by learning paths
 
 | Path                                | Description                               | Folder                                |
 |-------------------------------------|-------------------------------------------|----------------------------------------|
-| SOC Level 1 – Cyber Defence Frameworks | Threat modeling and detection frameworks | [`cyber-defence-frameworks/`](./cyber-defence-frameworks) |
+| SOC Level 1 – Cyber Defence Frameworks | Threat modeling and detection frameworks | [`cyber-defence-frameworks/`](./soc-level-1/cyber-defence-frameworks) |
 
 ## 🧑‍💻 How to Use
 Each folder contains:
