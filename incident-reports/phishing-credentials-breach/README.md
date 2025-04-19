@@ -21,9 +21,11 @@ This incident report details a phishing email attack where an employee was trick
 
 ---
 
-## 📂 File Included
+## 📂 Files Included
 
-- `incident-report-nist-csf.docx`: Complete NIST-aligned incident report detailing analysis, mitigation steps, and reflections
+📄 [Download the full report (DOCX)](./incident-report-nist-csf.docx)
+
+📄 [View the report as PDF](./incident-report-nist-csf.pdf)
 
 ---
 
