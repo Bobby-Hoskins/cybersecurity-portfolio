@@ -48,20 +48,29 @@ This room covers the UKC’s three main groupings:
 
 ## 📸 Screenshots
 
-![UKC Framework](./screenshots/unified-kill-chain-overview.png)  
-*The 18-phase model of the Unified Kill Chain, grouped by attack progression.*
+![UKC Framework](./screenshots/unified-kill-chain-intro.png)  
+*Introduction to the UKC framework and the 18 attack phases.*
 
-![Initial Foothold](./screenshots/unified-kill-chain-initial-foothold.png)  
-*Gaining access through exploitation, persistence, and evasion.*
+![Initial Foothold](./screenshots/initial-foothold-phase.png)  
+*Gaining initial access through recon, exploitation, and establishing persistence.*
 
-![Network Propagation](./screenshots/unified-kill-chain-network-propagation.png)  
-*Escalating privileges and moving laterally across the network.*
+![Network Propagation](./screenshots/network-propagation-phase.png)  
+*Using the compromised system to pivot, escalate privileges, and discover targets.*
 
-![Action on Objectives](./screenshots/unified-kill-chain-objectives.png)  
-*Final phases where data is stolen, encrypted, or systems are disrupted.*
+![Action on Objectives](./screenshots/action-on-objectives-phase.png)  
+*Stealing data, disrupting systems, and fulfilling the attacker’s final objectives.*
 
-![Room Completion](./screenshots/unified-kill-chain-completion.png)  
-*Completion badge for the Unified Kill Chain room.*
+![Threat Modelling](./screenshots/threat-modelling-definition.png)  
+*Steps to assess assets, identify risks, and apply security controls proactively.*
+
+![What is a Kill Chain](./screenshots/what-is-kill-chain.png)  
+*Definition and origin of the kill chain model used in cybersecurity.*
+
+![Practical Exercise](./screenshots/unified-kill-chain-practical-task.png)  
+*Task to match attacker actions to kill chain phases.*
+
+![Completion Badge](./screenshots/unified-kill-chain-completion-badge.png)  
+*Successfully completed the TryHackMe UKC room.*
 
 ## ✍️ Reflection  
 This room was a deep dive into how real-world attacks evolve beyond initial access. The level of detail in the UKC helped me understand the **why** behind attacker behavior, not just the how. Mapping UKC phases to MITRE tactics made each step actionable from a defense standpoint. It’s a framework I’ll definitely reference when conducting threat modeling and incident analysis.
