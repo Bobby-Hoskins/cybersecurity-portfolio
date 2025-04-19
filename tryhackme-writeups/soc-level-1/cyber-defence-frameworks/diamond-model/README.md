@@ -1,25 +1,68 @@
-# 🔐 Diamond Model
+# 💎 Diamond Model of Intrusion Analysis – TryHackMe Walkthrough
 
-> **TryHackMe: SOC Level 1 – Cyber Defence Frameworks**  
-> Completed: [Insert Date]
+**Platform:** TryHackMe  
+**Room:** [Diamond Model](https://tryhackme.com/room/diamondmodel)  
+**Learning Path:** SOC Level 1 – Cyber Defence Frameworks  
+**Date Completed:** April 15, 2025  
+**Difficulty:** Easy
 
-## 🔍 Overview
-Brief overview of what this room covers and its relevance to SOC workflows.
+---
 
-## 💡 Key Takeaways
-- [Insert takeaway 1]
-- [Insert takeaway 2]
-- [Insert takeaway 3]
+## 📘 Overview
 
-## 🔧 Tools / Models Learned
-- [Insert any models or tools: e.g., Kill Chain, ATT&CK, etc.]
+This room explores the **Diamond Model of Intrusion Analysis**, which consists of four core features: **Adversary**, **Victim**, **Infrastructure**, and **Capability**. This model helps analysts understand how attacks happen, who’s responsible, and which elements connect the attacker to the target. It’s especially useful for mapping out APTs and simplifying complex intrusions.
+
+Additional axes like **Meta Features**, **Technology**, and **Social-Political Components** allow further context and threat intelligence enrichment.
+
+---
+
+## 🔍 Key Concepts
+
+- Identify attacker intent and capabilities using Adversary-Target analysis
+- Map infrastructure types (Type 1 and Type 2) and attacker capabilities
+- Explore meta-features like timestamps, results, direction, and methodology
+- Understand attacker motivations and technical means of execution
+
+---
+
+## 🧠 Skills Practiced
+
+- Threat modeling
+- Intrusion analysis
+- Applying analytic frameworks
+- Structured cyber incident documentation
+
+---
 
 ## 📸 Screenshots
-![Completed Badge](../images/[your-screenshot].png)
 
-## ✍️ Reflection
-What did you learn that could help in a junior SOC analyst role?
+### 🧭 Overview and Introduction
+![Diamond Model Introduction](./screenshots/diamond-model-introduction.png)
 
-## 🔗 Related to Security+
-- Domain 1.0: Threats, Attacks, and Vulnerabilities  
-- Domain 4.0: Security Operations  
+### 🧑‍💻 Task 2 – Adversary
+![Adversary Section](./screenshots/diamond-model-adversary-section.png)
+
+### 🧍 Task 3 – Victim
+![Victim Section](./screenshots/diamond-model-victim-section.png)
+
+### 🛠️ Task 5 – Infrastructure
+![Infrastructure Section](./screenshots/diamond-model-infrastructure-section.png)
+
+### 🧬 Task 6 – Meta Features
+![Meta Features](./screenshots/diamond-model-meta-features-section.png)
+
+### 🌍 Task 7 – Social-Political Component
+![Social-Political Component](./screenshots/diamond-model-social-political-component.png)
+
+### 🖥️ Task 8 – Technology Component
+![Technology Component](./screenshots/diamond-model-technology-component.png)
+
+### 🧪 Task 9 – Practice Analysis
+![Practice Task](./screenshots/diamond-model-practice-analysis.png)
+
+### 🎉 Completion Badge
+![Completion](./screenshots/diamond-model-completion-badge.png)
+
+---
+
+✅ *This room deepens your understanding of how SOC teams analyze intrusions using structured models that support threat intelligence and attribution.*
