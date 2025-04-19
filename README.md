@@ -18,6 +18,12 @@
 - 🌐 [Web Redirection Analysis – HTTP/DNS Incident Report](./incident-reports/web-redirection-analysis)  
   Explored malicious domain redirection activity through tcpdump logs and identified how redirection patterns can reveal phishing or spoofing attempts.
 
+- 🧰 [Security Risk Assessment – Network Hardening Report](./incident-reports/security-risk-assessment)  
+  Assessed common network vulnerabilities and proposed solutions including MFA, firewall rules, and strong password policies to improve system defenses.
+
+- 🎣 [Phishing Credentials Breach – NIST CSF Incident Report](./incident-reports/phishing-credentials-breach)  
+  Applied the NIST Cybersecurity Framework to a simulated phishing attack scenario, documenting each phase of response with clear mitigation and recovery strategies.
+
 ---
 
 ## 🔍 Featured Labs
@@ -53,6 +59,8 @@
 - ✅ DNS & ICMP Log Analysis  
 - ✅ SYN Flood Detection  
 - ✅ Web Redirection Analysis  
+- ✅ Network Hardening Report  
+- ✅ NIST CSF Phishing Response  
 - 🕓 Windows Event Logs (In Progress)  
 - 🔜 SIEM with Splunk  
 - 🔜 Phishing Analysis
