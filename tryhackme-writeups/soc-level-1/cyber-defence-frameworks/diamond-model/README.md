@@ -45,6 +45,9 @@ Additional axes like **Meta Features**, **Technology**, and **Social-Political C
 ### 🧍 Task 3 – Victim
 ![Victim Section](./screenshots/diamond-model-victim-section.png)
 
+### 🧰 Task 4: Capability
+![Diamond Model – Capability Section](./screenshots/diamond-model-capability-section.png)
+
 ### 🛠️ Task 5 – Infrastructure
 ![Infrastructure Section](./screenshots/diamond-model-infrastructure-section.png)
 
