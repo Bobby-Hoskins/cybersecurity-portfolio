@@ -7,8 +7,8 @@ Welcome to my collection of TryHackMe room writeups, organized by learning paths
   - ✅ Junior Security Analyst Intro
   - ✅ Cyber Kill Chain
   - ✅ Unified Kill Chain
-  - X MITRE
-  - X Eviction
+  - ❌ MITRE
+  - ❌ Eviction
 
 ## 📂 Folders
 
