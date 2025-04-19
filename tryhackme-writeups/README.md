@@ -3,12 +3,12 @@
 Welcome to my collection of TryHackMe room writeups, organized by learning paths and frameworks. These labs support my cybersecurity learning journey, reinforce my Security+ studies, and demonstrate my hands-on capabilities.
 
 ## 🧭 Paths I'm Working Through:
-- **SOC Level 1**
-- [x] Junior Security Analyst Intro
-- [x] Cyber Kill Chain
-- [x] Unified Kill Chain
-- [ ] MITRE
-- [ ] Eviction
+- **SOC Level 1 – Cyber Defence Frameworks**
+  - ✅ Junior Security Analyst Intro
+  - ✅ Cyber Kill Chain
+  - ✅ Unified Kill Chain
+  - X MITRE
+  - X Eviction
 
 ## 📂 Folders
 
